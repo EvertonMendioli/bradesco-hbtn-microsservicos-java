@@ -1,5 +1,4 @@
 [
-
 {
     "id": 1,
     "nome": "Bohemian Rhapsody",
@@ -7,7 +6,6 @@
     "album": "A Night at the Opera",
     "anoLancamento": "1975"
 },
-
 {
     "id": 2,
     "nome": "Imagine",
