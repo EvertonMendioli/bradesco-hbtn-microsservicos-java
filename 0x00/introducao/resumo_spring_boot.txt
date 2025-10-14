@@ -1,0 +1,5 @@
+Spring Boot é um framework baseado no Spring Framework que simplifica o desenvolvimento de aplicações Java. Ele fornece uma abordagem opinativa para configurar e inicializar projetos Spring, eliminando a necessidade de configurações extensas e permitindo que os desenvolvedores criem aplicações rapidamente
+Os benefícios e recursos que Spring Boot fornece:Configuração simplificada, Servidor embutido, Conjuntos de dependências pré-configuradas para funcionalidades comuns, Spring Initializr, Suporte ao Spring Boot Actuator, Integração com bancos de dados, Ferramentas integradas para testes unitários e de integração.
+Para adicionar novas dependências é necessário apenas adicionar a dependência no arquivo pom.xml. 
+Na minha opinião a melhor IDE para trabalhar com com o Spring Boot é a o Spring Tools Suite (STS) e em segundo lugar o Inlellij.
+Spring Initializr é uma ferramenta online que permite gerar rapidamente projetos Spring Boot. Ele permite configurar o projeto, escolher dependências, definir o tipo de build (Maven/Gradle) e gerar um pacote inicial para começar o desenvolvimento.
