@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nome": "Ze Fulano",
-    "idade": "40",
+    "idade": 40,
     "email": "zezinho@email.com",
     "enderecos": [
       {
@@ -26,7 +26,7 @@
   {
     "id": 2,
     "nome": "Manoel Antunes",
-    "idade": "26",
+    "idade": 26,
     "email": "manoel@email.com",
     "enderecos": [
       {
