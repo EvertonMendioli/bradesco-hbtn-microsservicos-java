@@ -1,15 +1,15 @@
 You have entered valid ID
 {
   "status": 400,
-  "message": "Você digitou um IDnull inválido."
+  "message": "You have entered ID null invalid."
 }
 {
   "status": 400,
-  "message": "Você informou CPF nulo e inválido."
+  "message": "You have entered CPF null invalid."
 }
 {
   "status": 400,
-  "message": "Você informou CPF nulo e inválido."
+  "message": "You have entered CPF null invalid."
 }
 You have entered valid CPF
 You have entered valid USERNAME
